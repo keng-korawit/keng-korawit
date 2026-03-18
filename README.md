@@ -31,9 +31,9 @@ My strength is turning complex business requirements into practical, maintainabl
 - Designed concepts and technical direction for a rally event platform including route definition, GPS tracking, stage management, and real-time participant visibility.
 
 ## Tech Stack
-**Languages:** C#, TypeScript, JavaScript, SQL, Swift  
+**Languages:** C#, TypeScript, JavaScript, SQL, Swift, dart
 **Backend:** .NET, Node.js, Express, REST APIs  
-**Frontend:** Next.js, React, SwiftUI  
+**Frontend:** Next.js, React, SwiftUI ,flutter
 **Database:** SQL Server, query optimization, stored procedures  
 **Architecture:** repository pattern, modular architecture, system design  
 **Tools:** Git, GitHub, Docker, automation workflows
@@ -46,7 +46,6 @@ I am open to roles such as:
 - Software Architect
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL]
 - Portfolio: https://keng-korawit.github.io
 - Email: keng.kmee@gmail.com
 
