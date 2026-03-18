@@ -47,6 +47,6 @@ I am open to roles such as:
 
 ## Contact
 - LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
-- Email: [Add your email]
+- Portfolio: https://keng-korawit.github.io
+- Email: keng.kmee@gmail.com
 
